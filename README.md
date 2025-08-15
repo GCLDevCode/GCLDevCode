@@ -1,6 +1,7 @@
 ## Olá 👋
 
-Eu sou o Guilherme, estou estudando programação pelo <a href="https://rodolfomori.com.br/devclub/" title="Site do DevClub" rel="nofollow">DevClub</a> e fazendo faculdade de Engenharia de Software, atualmente no 3° periodo
+Eu sou o Guilherme, estou estudando programação pelo <a href="https://rodolfomori.com.br/devclub/" title="Site do DevClub" rel="nofollow">DevClub</a> e fazendo faculdade de Engenharia de Software, atualmente no 3° periodo.
+
 Estou buscando me aperfeiçoar mais na área da tecnologia, estudando:
 <br>
 <br>
